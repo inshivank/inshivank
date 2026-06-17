@@ -52,7 +52,7 @@
 - Personalized product recommendations
 - Search & filtering
 - Behavioral analytics
-- ML-powered ranking
+- ML-powered rankin
 
 ### 🗣️ Hate Speech Detection System
 - NLP preprocessing pipeline
