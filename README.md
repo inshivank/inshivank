@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer • AI/ML Developer • Problem Solver</h3>
 
-<p align="center">
+<p align="ce
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI+Developer;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Recommendation+Systems;Python+%7C+JavaScript+%7C+React;Building+Production-Ready+Applications;Always+Learning%2C+Always+Building" />
 </p>
 
